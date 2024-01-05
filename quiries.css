@@ -1,6 +1,7 @@
 @media (max-width: 768px) {
   container {
     justify-content: center;
+    align-items: flex-start;
   }
   .box {
     width: 100%;

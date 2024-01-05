@@ -22,6 +22,8 @@ document.addEventListener("DOMContentLoaded", function () {
       listContainer.appendChild(listItem);
       let span = document.createElement("span");
       span.innerHTML = "\u00d7";
+      span.style.color = "red";
+      span.style.fontSize = "2rem";
       listItem.appendChild(span);
     }
     inputText.value = "";

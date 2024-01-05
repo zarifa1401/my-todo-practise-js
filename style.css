@@ -12,7 +12,7 @@ body {
 .container {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(90deg, rgb(100, 206, 241), rgb(205, 228, 235));
+  background: linear-gradient(90deg, rgb(62, 56, 56), rgb(64, 138, 242));
   padding: 10px 0;
   display: flex;
   justify-content: center;
@@ -104,8 +104,8 @@ ul li span {
   position: absolute;
   right: 0;
   top: 5px;
-  width: 35px;
-  height: 35px;
+  width: 40px;
+  height: 40px;
   font-size: 22px;
   color: #555;
   line-height: 40px;
